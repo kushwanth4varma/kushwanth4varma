@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm M.Kushwanth</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right"alt="coding"width="400"src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
 
+<h1 align="left">Hi 👋, I'm M.Kushwanth</h1>
+<h3 align="left">A passionate Data Analyst from India</h3>
+<img align="right"alt="coding"width="400"src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
+<img align="left"alt="coding"width="400"src="https://dribbble.com/shots/5504725-Data-Analytics-Animation-Header"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushwanth4varma&label=Profile%20views&color=0e75b6&style=flat" alt="kushwanth4varma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushwanth4varma" alt="kushwanth4varma" /></a> </p>
